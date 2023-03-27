@@ -1,0 +1,39 @@
+[{
+  "_id": 2,
+  "Titulo_Pelicula": "Los cazafantasmas",
+  "Fecha_de_Emision": "1984",
+  "Genero": "Ciencia Ficcion",
+  "Disponibilidad": "Para toda la familia",
+  " Titulo_Pelicula": " D"
+},{
+  "_id": 3,
+  "Titulo_Pelicula": "Harry Potter",
+  "Fecha_de_Emision": "2001",
+  "Genero": "Accion/Fantasia",
+  "Disponibilidad": "Para toda la familia",
+  " Genero": " comedia"
+},{
+  "_id": 4,
+  "Titulo_Pelicula": "Spiderman",
+  "Fecha_de_Emision": "2002",
+  "Genero": "Ficcion/Accion",
+  "Disponibilidad": "Para toda la familia",
+  " Genero": " terror"
+},{
+  "_id": 5,
+  "Titulo_Pelicula": "After",
+  "Fecha_de_Emision": "2019",
+  "Genero": "Romance",
+  "Disponibilidad": "Mayores de 18 años",
+  "Disponibilidad ": "mayores de 18 años",
+  "Fecha_de_emision ": "2019",
+  "Genero ": "romance",
+  "Titulo_Pelicula ": "yo antes de ti",
+  "_id ": "5"
+},{
+  "_id": "1",
+  "Titulo_Pelicula ": "Bob Esponja",
+  "Fecha_de_emision ": "2021",
+  "Genero ": "infantil",
+  "Disponibilidad ": "para toda la familia"
+}]
